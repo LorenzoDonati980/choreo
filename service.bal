@@ -1,5 +1,5 @@
 import ballerina/io;
-import ballerina/jms;
+import ballerina/java.jms;
 
  
 
