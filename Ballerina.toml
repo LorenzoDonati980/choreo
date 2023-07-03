@@ -7,3 +7,21 @@
   org = "ldonatiprofesia"
   version = "0.1.0"
 
+[[platform.java11.dependency]]
+  module = "jms"
+  artifactId = "activemq-client"
+  version = "5.15.12"
+  groupId = "org.apache.activemq"
+
+[[platform.java11.dependency]]
+  module = "jms"
+  artifactId = "geronimo-j2ee-management_1.1_spec"
+  version = "1.0.1"
+  groupId = "org.apache.geronimo.specs"
+
+[[platform.java11.dependency]]
+  module = "jms"
+  artifactId = "hawtbuf"
+  version = "1.11"
+  groupId = "org.fusesource.hawtbuf"
+
